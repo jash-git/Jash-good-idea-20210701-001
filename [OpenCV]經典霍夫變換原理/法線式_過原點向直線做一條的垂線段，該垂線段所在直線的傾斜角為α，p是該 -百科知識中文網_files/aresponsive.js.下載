@@ -1,0 +1,7 @@
+﻿document.writeln("<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- responsive --><ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-7096258950800110\" data-ad-slot=\"7496524382\" data-ad-format=\"auto\"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>");
+
+//if (document.documentElement.clientWidth < 800) {
+//	document.writeln("<div align=\"center\"><ins class=\"clickforceads\" style=\"display:inline-block;width:300px;height:250px;\" data-ad-zone=\"8803\"></ins><script async type=\"text/javascript\" src=\"//cdn.doublemax.net/js/init.js\"></script></div>");
+//}else{
+//	document.writeln("<div align=\"center\"><ins class=\"clickforceads\" style=\"display:inline-block;width:728px;height:90px\" data-ad-zone=\"8802\"></ins><script async type=\"text/javascript\" src=\"//cdn.doublemax.net/js/init.js\"></script></div>");
+//}

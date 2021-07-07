@@ -1,0 +1,8 @@
+document.writeln("<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>");
+document.writeln("<script>");
+document.writeln("(adsbygoogle = window.adsbygoogle || []).push({");
+document.writeln("google_ad_client: \"ca-pub-7096258950800110\",");
+document.writeln("enable_page_level_ads: true");
+document.writeln("});");
+document.writeln("</script>");
+//document.writeln("<ins class=\"clickforceads\" style=\"display:inline-block;width:320px;height:480px\" data-ad-zone=\"8804\"></ins><script async type=\"text/javascript\" src=\"//cdn.doublemax.net/js/init.js\"></script>");

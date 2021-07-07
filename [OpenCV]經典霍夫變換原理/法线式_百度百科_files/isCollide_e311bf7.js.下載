@@ -1,0 +1,1 @@
+define("wiki-lemma:widget/feature/Audio/isCollide",function(f,e,t){function o(f,e){if(!f||!e)return!1;var t=f.offsetTop,o=f.offsetLeft,i=o+f.offsetWidth,s=t+f.offsetHeight,n=e.offsetTop,r=e.offsetLeft,d=r+e.offsetWidth,u=n+e.offsetHeight;return n>s||o>d||t>u||r>i?!0:!1}t.exports=o});

@@ -1,0 +1,15 @@
+document.writeln("<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>");
+document.writeln("<ins class=\"adsbygoogle\"");
+document.writeln("style=\"display:block\"");
+document.writeln("data-ad-format=\"autorelaxed\"");
+document.writeln("data-ad-client=\"ca-pub-7096258950800110\"");
+document.writeln("data-ad-slot=\"7952305983\"></ins>");
+document.writeln("<script>");
+document.writeln("(adsbygoogle = window.adsbygoogle || []).push({});");
+document.writeln("</script>");
+
+//if (document.documentElement.clientWidth < 800) {
+//	document.writeln("<div align=\"center\"><ins class=\"clickforceads\" style=\"display:inline-block;width:300px;height:250px;\" data-ad-zone=\"8803\"></ins><script async type=\"text/javascript\" src=\"//cdn.doublemax.net/js/init.js\"></script></div>");
+//}else{
+//	document.writeln("<div align=\"center\"><ins class=\"clickforceads\" style=\"display:inline-block;width:728px;height:90px\" data-ad-zone=\"8802\"></ins><script async type=\"text/javascript\" src=\"//cdn.doublemax.net/js/init.js\"></script></div>");
+//}
